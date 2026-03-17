@@ -13,7 +13,7 @@ Pre-built releases of the Dev Control Plane MCP server for [Cursor IDE](https://
       "command": "uvx",
       "args": [
         "--from",
-        "https://github.com/dataloop-ai-apps/dcp-releases/releases/download/v0.9.1/dcp_mcp-0.9.1-py3-none-any.whl",
+        "https://github.com/dataloop-ai-apps/dcp-releases/releases/download/v0.9.2/dcp_mcp-0.9.2-py3-none-any.whl",
         "dcp-mcp"
       ]
     }
